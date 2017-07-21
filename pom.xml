@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.devontrain.jaxb</groupId>
     <artifactId>jackmods</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>jackmods</name>
     <description>Aim of this framework is to speed up XJC plugins development</description>
     <url>https://github.com/piotr-tarnowski/jackmods</url>
